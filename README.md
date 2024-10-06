@@ -1,0 +1,2 @@
+# Fraud-Detection-on-Financial-Transactions-with-Machine-Learning-
+The "Fraud Detection in Financial Transactions" project uses Python and machine learning algorithms like Random Forest, Logistic Regression, and XGBoost. We preprocess financial data, apply these models using scikit-learn, and evaluate their performance using metrics such as precision, recall, and ROC-AUC to detect fraudulent transactions.
